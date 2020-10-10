@@ -1,0 +1,10 @@
+
+import(stats)
+
+export(vsk_imm)
+export(vsk_rvs)
+export(vsk_mle)
+export(vsk_pdf)
+export(vsk_cdf)
+export(vsk_ppf)
+
