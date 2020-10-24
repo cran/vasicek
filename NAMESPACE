@@ -1,10 +1,15 @@
 
 import(stats)
+import(mvtnorm)
 
-export(vsk_imm)
-export(vsk_rvs)
 export(vsk_mle)
+export(vsk_imm)
+export(vsk_dmm)
+export(vsk_qbe)
+
+export(vsk_rvs)
 export(vsk_pdf)
 export(vsk_cdf)
 export(vsk_ppf)
 
+export(gof_ks)
