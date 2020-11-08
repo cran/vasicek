@@ -1,6 +1,7 @@
-06282a4e2ce313293e65c4966bc94f20 *DESCRIPTION
-60a049c7c578708e074fb4598668ea23 *NAMESPACE
+39d361786cbf3a4215ef88beb0f7f624 *DESCRIPTION
+04191132e10948e8dd7d2a854ca7d813 *NAMESPACE
 fb2fb827f580288f4980dabc39c11c51 *R/gof_ks.R
+44f7add659f999d9440acb5c9df641e6 *R/vsk_Rho.R
 237d2cfca4cef62f5ba485cada4f1d05 *R/vsk_cdf.R
 c377e0a1c175e02484eaf99ee74113df *R/vsk_dmm.R
 bc8b533daa045c854efd48c5f81c2e1a *R/vsk_imm.R
@@ -10,6 +11,7 @@ de41ac50cbb1940104438e91e3de69d0 *R/vsk_ppf.R
 2220d317d716ba8fa1657cf3ac42a5a3 *R/vsk_qbe.R
 16de2ffbc489b79e135385855ca4a4d3 *R/vsk_rvs.R
 95fac159bd9ca1d3c67cce492ed66785 *man/gof_ks.Rd
+2e3e0995321289a15e910ce56bdc9e99 *man/vsk_Rho.Rd
 cf5ec77e01187568ed5870643e8bdb82 *man/vsk_cdf.Rd
 b605787d1ff6f06d89ad5bd0c6534445 *man/vsk_dmm.Rd
 d95d26242a228f92b7a3a4e32902723d *man/vsk_imm.Rd
